@@ -2,6 +2,21 @@ Peter McDavitt
 03-23-1981
 Fogo de Chao
 
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+Paige Werremeyer
+08-19-02
+neiborhood cafe
+=======
+
+<<<<<<< HEAD
+Andrew Kelleher
+10-14-2002
+Best Buy
+=======
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
 
 
 
@@ -19,8 +34,37 @@ Fogo de Chao
 
 
 
-
+<<<<<<< HEAD
 Rashawn.briggs
 06 25 01
 tacos mANS
 
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hayden Cole 
+01-24-2018
+Texas Roadhouse
+>>>>>>> 453762e80509edf02e84d9ad3f7501530b1452a6
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
