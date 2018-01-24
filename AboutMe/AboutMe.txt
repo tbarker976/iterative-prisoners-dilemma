@@ -2,6 +2,59 @@ Peter McDavitt
 03-23-1981
 Fogo de Chao
 
+<<<<<<< HEAD
 Trent Barker
 01-27-2001
 Fogo de Chao
+=======
+
+<<<<<<< HEAD
+Andrew Kelleher
+10-14-2002
+Best Buy
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hayden Cole 
+01-24-2018
+Texas Roadhouse
+>>>>>>> 453762e80509edf02e84d9ad3f7501530b1452a6
+>>>>>>> 84beefb2c839cb13c7981c28057848045ec40f35
