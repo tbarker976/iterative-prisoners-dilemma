@@ -3,11 +3,22 @@ Peter McDavitt
 Fogo de Chao
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mikiyah Gray-Phillips
 09-30-2002
 Cheesecake Factory
 =======
+Paige Werremeyer
+08-19-02
+neiborhood cafe
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
+=======
 
+<<<<<<< HEAD
+Andrew Kelleher
+10-14-2002
+Best Buy
+=======
 
 
 
