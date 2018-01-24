@@ -2,6 +2,77 @@ Peter McDavitt
 03-23-1981
 Fogo de Chao
 
+<<<<<<< HEAD
 Ethan Brown
 02-02-2002
 Subway
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Trent Barker
+01-27-2001
+Fogo de Chao
+=======
+<<<<<<< HEAD
+Mikiyah Gray-Phillips
+09-30-2002
+Cheesecake Factory
+=======
+Paige Werremeyer
+08-19-02
+neiborhood cafe
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
+>>>>>>> 29d5d23fbf587273c7c321448b364be776c4f7e7
+=======
+
+<<<<<<< HEAD
+Andrew Kelleher
+10-14-2002
+Best Buy
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hayden Cole 
+01-24-2018
+Texas Roadhouse
+>>>>>>> 453762e80509edf02e84d9ad3f7501530b1452a6
+>>>>>>> 84beefb2c839cb13c7981c28057848045ec40f35
+>>>>>>> 82f0f4dff8dcb3a6a9fdc9d18bab65dbeb4cf62e
