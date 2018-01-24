@@ -2,6 +2,53 @@ Peter McDavitt
 03-23-1981
 Fogo de Chao
 
+<<<<<<< HEAD
 Anthony Lakin
 3-7-02
 37 steak
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hayden Cole 
+01-24-2018
+Texas Roadhouse
+>>>>>>> 453762e80509edf02e84d9ad3f7501530b1452a6
