@@ -2,6 +2,69 @@ Peter McDavitt
 03-23-1981
 Fogo de Chao
 
+<<<<<<< HEAD
+
+
+
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Luke Natali
+05-01-2003
+Chedars
+
+=======
+=======
+<<<<<<< HEAD
+Anthony Lakin
+3-7-02
+37 steak
+=======
+=======
+<<<<<<< HEAD
+Adrian holt
+05-03-01
+Island grill
+=======
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+=======
+Ethan Brown
+02-02-2002
+Subway
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Trent Barker
+01-27-2001
+Fogo de Chao
+=======
+<<<<<<< HEAD
+Mikiyah Gray-Phillips
+09-30-2002
+Cheesecake Factory
+=======
+>>>>>>> c36d45f513c25fd91267adbb1a7e740f635baabe
+Paige Werremeyer
+08-19-02
+neiborhood cafe
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
+>>>>>>> 29d5d23fbf587273c7c321448b364be776c4f7e7
+=======
+
+<<<<<<< HEAD
+Andrew Kelleher
+10-14-2002
+Best Buy
+=======
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
+>>>>>>> f48ddd0cf423a11a544fa91425658a67bc867b94
+>>>>>>> e50be3fd776f8588d027209f4e3d3378475c8127
+>>>>>>> fbfc0f72a5caa249aca16ed8073046941f70019a
+>>>>>>> d6ad92ba0994c7f2b53e6fd26800f2d8718c9ec1
 
 
 
@@ -19,7 +82,16 @@ Fogo de Chao
 
 
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+Rashawn.briggs
+06 25 01
+tacos mANS
+
+=======
+>>>>>>> d6ad92ba0994c7f2b53e6fd26800f2d8718c9ec1
 
 
 
@@ -42,6 +114,9 @@ Texcas Rodadhuse
 
 
 
+<<<<<<< HEAD
+Jacob Hasenyager 03/05/01 Culver's
+=======
 
 
 
@@ -52,3 +127,22 @@ Hayden Cole
 01-24-2018
 Texas Roadhouse
 >>>>>>> 453762e80509edf02e84d9ad3f7501530b1452a6
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 14b86c5007e6ea171a6586711947ad287483454c
+=======
+>>>>>>> 84beefb2c839cb13c7981c28057848045ec40f35
+>>>>>>> 82f0f4dff8dcb3a6a9fdc9d18bab65dbeb4cf62e
+>>>>>>> c36d45f513c25fd91267adbb1a7e740f635baabe
+>>>>>>> f48ddd0cf423a11a544fa91425658a67bc867b94
+>>>>>>> e50be3fd776f8588d027209f4e3d3378475c8127
+>>>>>>> fbfc0f72a5caa249aca16ed8073046941f70019a
+>>>>>>> d6ad92ba0994c7f2b53e6fd26800f2d8718c9ec1
+>>>>>>> 33f0d1ddb95b947758b84f04dd2eae79e8fa47ef
